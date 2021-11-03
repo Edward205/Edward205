@@ -8,3 +8,5 @@ oh no
 dont use electron, use flutter please thanks
 
 i use arch linux btw
+![codestatz](https://codestats-readme.wegfan.cn/history-graph/username)
+
