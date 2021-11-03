@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Edward205
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+i am working on many stuff
+<img width="154" alt="image" src="https://user-images.githubusercontent.com/52004020/140173010-10fb35aa-3065-495a-b718-4ed42ff9ee4b.png">
+oh no
 
-<!---
-Edward205/Edward205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+dont use electron, use flutter please thanks
+i use arch linux btw
