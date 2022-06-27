@@ -10,7 +10,7 @@ oh no
 dont use electron, use flutter please thanks
 
 
-i use arch linux btw
+i use windows 10 ltsc btw
 
 codestatz:
 
