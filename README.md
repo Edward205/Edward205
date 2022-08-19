@@ -14,7 +14,7 @@ Software I've translated:
     * https://www.transifex.com/user/profile/Edward205/
     * https://crowdin.com/profile/Edward205
     
-While translating I usually follow Mictosoft's terminology: https://www.microsoft.com/en-us/language
+While translating I usually follow Microsoft's terminology: https://www.microsoft.com/en-us/language
 
 # Contact me: 
 
