@@ -1,5 +1,5 @@
 # What I do
-I like to learn how computers work from the ground up and to see how software works. I am very committed to making fast and reliable software for the good of the people (including your mother).
+I like to learn how see how software and many other things work from the ground up. I am very committed to making fast and reliable software for the good of the people (including your mother).
 
 I also translate stuff in Romanian
 
