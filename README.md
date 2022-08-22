@@ -7,6 +7,7 @@ Software I've translated:
   * ShareX (100%)
   * Revolt (>90% by me)
   * NewPipe (fixed mistakes and updated translations)
+  * Telegram
   * Blokada (contributed)
   * Trezor Suite
   * Rock Life (game on Steam)
