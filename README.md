@@ -1,5 +1,7 @@
 # What I do
-I like to learn how see how software and many other things work from the ground up. I am very committed to making fast and reliable software for the good of the people (including your mother).
+I like to learn how see how software and many other things work from the ground up. I am very committed to making fast and reliable software for the good of the people (including your mother).  
+
+My main programing langages: C++, Python, Flutter
 
 I also translate stuff in Romanian
 
@@ -28,13 +30,11 @@ Despite it being under a temp domain, **it is always valid and it will reach me.
 
 # Other
 
-My main programing langages: C++, Python, Flutter
-
 Everything I code solo stays private until ready for release or disclosure
 
 i use windows 10 ltsc btw
 
-codestatz:
+codestatz (but i'm not alwyas working in an ide which supports the extension so not all of my work is recorded):
 
 ![codestatz](https://codestats-readme.wegfan.cn/history-graph/edward)
 
