@@ -2,6 +2,7 @@ Software I've translated:
   * ShareX (100%)
   * Revolt (>90% by me)
   * NewPipe (fixed mistakes and updated translations)
+  * LibreTube and Piped Frontend
   * Telegram
   * Blokada (contributed)
   * Trezor Suite
