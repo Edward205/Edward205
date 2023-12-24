@@ -1,5 +1,5 @@
 # What I do
-I like to learn how see how software and many other things work from the ground up. I am very committed to making fast and reliable software for the good of the people (including your mother).  
+I like to learn how software and many other things work from the ground up. I am committed to making fast and reliable software for the good of the people (including your mother).  
 
 My main programing langages: C++, Python, Flutter
 
@@ -9,9 +9,9 @@ My main programing langages: C++, Python, Flutter
 
 **If you want to contact me to translate for software (I may do it for free) or for any other reason please ONLY USE THIS EMAIL ADDRESS:**
 
-cbm1324bonp@temp.mailbox.org
+1afrm7ggx@mozmail.com
 
-Despite it being under a temp domain, **it is always valid and it will reach me.** Please DO NOT email me via my personal address.
+**It is always valid and it will reach me.** Please DO NOT email me via my personal address, unless we've had an e-mail exchange.
 
 # Other
 
