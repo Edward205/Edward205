@@ -19,7 +19,7 @@ Everything I code solo stays private until ready for release or disclosure
 
 i use windows 10 ltsc btw
 
-codestatz (but i'm not alwyas working in an ide which supports the extension so not all of my work is recorded):
+codestatz (but i'm not always working in an ide which supports the extension so not all of my work is recorded):
 
 ![codestatz](https://codestats-readme.wegfan.cn/history-graph/edward)
 
@@ -28,7 +28,7 @@ I don't drink coffee
 [![anythingbut](https://user-images.githubusercontent.com/52004020/185677917-7d5dfb8a-9867-4e3e-bc34-387e5dce1b90.png)](https://www.mozilla.org/en-US/firefox/new/)
 ![keep](https://user-images.githubusercontent.com/52004020/185680075-4996f8a3-d0b4-47c7-ad06-5baf6c7c9930.gif)
 [![jellyfin](https://user-images.githubusercontent.com/52004020/185680139-2555566e-74e5-4ef8-ab6a-090432481392.gif)](https://jellyfin.org/)
-[![email2](https://user-images.githubusercontent.com/52004020/185680154-151f355f-102f-4d27-8a82-2f6b172b7a77.gif)](mailto:mrz3k0ekqzz@temp.mailbox.org)
+[![email2](https://user-images.githubusercontent.com/52004020/185680154-151f355f-102f-4d27-8a82-2f6b172b7a77.gif)](mailto:1afrm7ggx@mozmail.com)
 ![sign_guest_book](https://user-images.githubusercontent.com/52004020/185680165-0c3eba0f-3a74-4b82-aad3-36a6716f4962.gif)
 ![phonechump](https://user-images.githubusercontent.com/52004020/185680530-0a87ba8d-d069-440e-9165-d5a954c5988b.gif)
 ![seedyourtorrents](https://user-images.githubusercontent.com/52004020/185680681-1ced0006-0506-44ea-9c30-b1d9c0db5a27.gif)
