@@ -1,17 +1,17 @@
 # What I do
 I like to learn how software and many other things work from the ground up. I am committed to making fast and reliable software for the good of the people (including your mother).  
 
-My main programing langages: C++, Python, Flutter
+My main programing langages: C++, Python, Flutter. I'm also familiar with JavaScript, HTML/CSS, Go, Bash and Godot Engine.
 
 [I also translate stuff in Romanian](https://github.com/Edward205/Edward205/blob/main/translations.md)
 
 # Contact me: 
 
-**If you want to contact me to translate for software (I may do it for free) or for any other reason please ONLY USE THIS EMAIL ADDRESS:**
+**If you want to contact me for any reason please ONLY USE THIS EMAIL ADDRESS:**
 
-1afrm7ggx@mozmail.com
+webmaster@bastos.cc
 
-**It is always valid and it will reach me.** Please DO NOT email me via my personal address, unless we've had an e-mail exchange.
+Please DO NOT email me via my personal address, unless we've had an e-mail exchange.
 
 # Other
 
@@ -28,7 +28,7 @@ I don't drink coffee
 [![anythingbut](https://user-images.githubusercontent.com/52004020/185677917-7d5dfb8a-9867-4e3e-bc34-387e5dce1b90.png)](https://www.mozilla.org/en-US/firefox/new/)
 ![keep](https://user-images.githubusercontent.com/52004020/185680075-4996f8a3-d0b4-47c7-ad06-5baf6c7c9930.gif)
 [![jellyfin](https://user-images.githubusercontent.com/52004020/185680139-2555566e-74e5-4ef8-ab6a-090432481392.gif)](https://jellyfin.org/)
-[![email2](https://user-images.githubusercontent.com/52004020/185680154-151f355f-102f-4d27-8a82-2f6b172b7a77.gif)](mailto:1afrm7ggx@mozmail.com)
+[![email2](https://user-images.githubusercontent.com/52004020/185680154-151f355f-102f-4d27-8a82-2f6b172b7a77.gif)](mailto:webmaster@bastos.cc)
 ![sign_guest_book](https://user-images.githubusercontent.com/52004020/185680165-0c3eba0f-3a74-4b82-aad3-36a6716f4962.gif)
 ![phonechump](https://user-images.githubusercontent.com/52004020/185680530-0a87ba8d-d069-440e-9165-d5a954c5988b.gif)
 ![seedyourtorrents](https://user-images.githubusercontent.com/52004020/185680681-1ced0006-0506-44ea-9c30-b1d9c0db5a27.gif)
