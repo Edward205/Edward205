@@ -1,7 +1,7 @@
 # What I do
 I like to learn how software and many other things work from the ground up. I am committed to making fast and reliable software for the good of the people (including your mother).  
 
-My main programing langages: C++, Python, Flutter. I'm also familiar with JavaScript, HTML/CSS, Go, Bash and Godot Engine.
+My main programming langages: C++, Python, Flutter. I'm also familiar with JavaScript, HTML/CSS, Go, Bash and Godot Engine.
 
 [I also translate stuff in Romanian](https://github.com/Edward205/Edward205/blob/main/translations.md)
 
