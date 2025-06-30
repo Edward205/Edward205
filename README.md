@@ -1,7 +1,7 @@
 # What I do
 I like to learn how software and many other things work from the ground up. I am committed to making fast and reliable software for the good of the people (including your mother).  
 
-My main programming langages: C++, Python, Flutter. I'm also familiar with JavaScript, HTML/CSS, Go, Bash and Godot Engine.
+My main programming langages: C++, Python, Flutter. I'm also familiar with JavaScript, HTML/CSS, Bash and Godot Engine (GDScript).
 
 [I also translate stuff in Romanian](https://github.com/Edward205/Edward205/blob/main/translations.md)
 
@@ -15,7 +15,7 @@ Please DO NOT email me via my personal address, unless we've had an e-mail excha
 
 # Other
 
-Everything I code solo stays private until ready for release or disclosure
+I have many other solo projects, but I keep them private until they are ready for release or disclosure.
 
 i use windows 10 ltsc btw
 
